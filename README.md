@@ -38,14 +38,13 @@ interior-design-website-template/
 │   └── [other scripts]
 │
 ├── images/
-│   └── logo5.png
-│   └── team2.jpg
-│   └── about-img.png
+│   ├── logo5.png
+│   ├── team2.jpg
+│   ├── about-img.png
 │   └── [project/service images]
 │
 ├── demo-video.mp4
 └── README.md
-
 
 
 ---
