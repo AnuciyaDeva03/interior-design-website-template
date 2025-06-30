@@ -18,22 +18,34 @@ A modern and elegant front-end website for an interior design business. Built wi
 
 ## 📂 Project Structure
 
+interior-design-website-template/
+│
 ├── index.html
 ├── about.html
 ├── service.html
 ├── projects.html
 ├── contact.html
+│
 ├── css/
-│ ├── bootstrap.css
-│ ├── style.css
-│ ├── responsive.css
-│ └── other custom CSS files
+│   ├── bootstrap.css
+│   ├── responsive.css
+│   ├── style.css
+│   └── [other custom stylesheets]
+│
 ├── js/
-│ ├── bootstrap.js
-│ └── jquery-3.4.1.min.js
+│   ├── bootstrap.js
+│   ├── jquery-3.4.1.min.js
+│   └── [other scripts]
+│
 ├── images/
-│ └── logo, team, background, service, and project images
-└── demo-video.mp4
+│   └── logo5.png
+│   └── team2.jpg
+│   └── about-img.png
+│   └── [project/service images]
+│
+├── demo-video.mp4
+└── README.md
+
 
 
 ---
