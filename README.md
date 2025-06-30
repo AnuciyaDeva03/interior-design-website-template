@@ -55,15 +55,3 @@ A modern and elegant front-end website for an interior design business. Built wi
    ```bash
    git clone https://github.com/your-username/interior-design-website.git
 2. Open index.html in your browser.
-
-📄 License
-This project is licensed for personal and academic use. Commercial use is prohibited without permission.
-
----
-
-Let me know if you want to include:
-- Screenshots in the README
-- Live preview link
-- Deployment instructions (e.g., GitHub Pages)
-
-I can customize it further based on your needs.
